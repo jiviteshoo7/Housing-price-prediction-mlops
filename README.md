@@ -1,1 +1,1 @@
-# flight-fare-prediction
+# insurance-premium-prediction
