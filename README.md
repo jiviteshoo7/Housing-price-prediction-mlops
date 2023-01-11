@@ -1,1 +1,1 @@
-# insurance-premium-prediction
+# housing-price-prediction
